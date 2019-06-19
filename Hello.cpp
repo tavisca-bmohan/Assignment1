@@ -17,7 +17,6 @@ int main(int argc, char* argv[]){
    cout <<s<<endl;
    cout<<"Hello WOrld of git";
    cout<<endl<<add(34,26);
-
    cout<<"\nlearning Git";
    return 0;
 }
